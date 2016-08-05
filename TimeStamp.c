@@ -1,0 +1,14 @@
+char* UIAGSVersionDate = "Tue Jul 26 10:06:48 2016";
+char* versionDate = "Tue Jul 26 10:06:48 2016";
+char* versionDateStr = "date:=Tue Jul 26 10:06:48 2016";
+char* clearcaseView = "/view/andreis";
+char* clearcaseViewStr = "view:=/view/andreis";
+char* clearcaseConfigSpec = "\nelement * CHECKEDOUT\nelement * /main/LATEST\n";
+char* clearcaseConfigSpecStr = "configSpec:=element * CHECKEDOUTelement * /main/LATEST";
+char* compileFlags = "-I/usr/include  -I/usr/include/c++/4.4.7/ -I/usr/include/c++/4.4.7/x86_64-redhat-linux -I/usr/include/c++/4.4.7/backward  -I/usr/local/share -I/usr/local/share/include -B/usr/lib/gcc/x86_64-redhat-linux/4.4.7/ -B/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/  -D__X86 -D__WS6  -Wno-write-strings -g -pthread";
+char* compileFlagsStr = "g++:=-I/usr/include  -I/usr/include/c++/4.4.7/ -I/usr/include/c++/4.4.7/x86_64-redhat-linux -I/usr/include/c++/4.4.7/backward  -I/usr/local/share -I/usr/local/share/include -B/usr/lib/gcc/x86_64-redhat-linux/4.4.7/ -B/usr/libexec/gcc/x86_64-redhat-linux/4.4.7/  -D__X86 -D__WS6  -Wno-write-strings -g -pthread";
+char* kernel = "2.6.32-573.26.1.el6.x86_64";
+char* kernelstr = "kernel:=2.6.32-573.26.1.el6.x86_64";
+char* node = "acnlinb4.pbn.bnl.gov";
+char* nodestr = "node:=acnlinb4.pbn.bnl.gov";
+char* OSstr = "OS:=Red Hat Enterprise Linux Workstation release 6.7 (Santiago)";
