@@ -1,4 +1,6 @@
-# epics2ado: EPICS to ADO bridge lane: monitor EPICS PVs and cnange corresponding ADO variables
+# epics2ado
+
+EPICS to ADO bridge lane: monitor EPICS PVs and cnange corresponding ADO variables
 
 ## Dependencies
 
